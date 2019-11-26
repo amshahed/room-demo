@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RoomDemo</string>
+    <string name="priority">1</string>
+    <string name="title">Title</string>
+    <string name="description">description</string>
+    <string name="priorityText">Priority</string>
+    <string name="save">Save</string>
+</resources>
